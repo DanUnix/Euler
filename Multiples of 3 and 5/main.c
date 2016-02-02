@@ -1,3 +1,6 @@
+// Author: Daniel Pulley
+// Description: sum of multiples of 3 or 5
+// Date: 02/2/2016
 #include <stdio.h>
 
 int main()
